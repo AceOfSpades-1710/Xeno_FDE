@@ -5,7 +5,7 @@ This is a multi-tenant Data Ingestion Service that connects to a Shopify store, 
 
 **Deployed Link:** https://xeno-repo.vercel.app/
 
-**Demo Video:**  ""
+**Demo Video:**  https://drive.google.com/file/d/169Mma1fsPPi2dnGNDrJ1hJic4ZYyJt14/view?usp=sharing
 
 ## 2. Architecture
 The solution uses a unified Next.js architecture to handle the Backend API, Frontend UI, and Authentication.
